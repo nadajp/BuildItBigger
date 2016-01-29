@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Joke Display</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Here is a joke...</string>
+    <string name="joke" translatable="false">joke</string>
+</resources>
